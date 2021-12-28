@@ -1,0 +1,35 @@
+*{
+    font-family: 'Pushster', cursive;
+}
+
+.centered{
+    text-align: center;
+}
+.line{
+    width: 112px;
+    height: 47px;
+    border-bottom: 10px solid black;
+    position: relative;
+}
+
+.list{
+    background-color: #EAE0D5;
+    color: #22333B;
+}
+a{
+    color: #22333B;
+}
+.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color:green;
+}
+
+.title{
+    background-color: #C6AC8F;
+    color: #22333B;
+    font-family: 'Pushster', cursive;
+}
+
+/* https://coolors.co/0a0908-22333b-eae0d5-c6ac8f-5e503f */
